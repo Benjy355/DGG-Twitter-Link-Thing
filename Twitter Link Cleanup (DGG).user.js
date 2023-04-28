@@ -9,9 +9,10 @@
 // @grant        none
 // ==/UserScript==
 
+// ChatGPT wrote 100% of this, don't get mad at me if it breaks your shit :)
+
 (function() {
     'use strict';
-    // Get the chat-lines div
     // Get the chat-lines div
     const chatLines = document.querySelector('.chat-lines');
 
